@@ -1,18 +1,35 @@
-<!-- Hero GIF -->
+<!-- Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif"
-       alt="Developer working on laptop"
-       width="260" />
+  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif"
+       alt="Code banner"
+       width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Isha Nandi</h1>
-<h3 align="center">Full Stack Developer building AI-first web experiences</h3>
+<!-- Hero: Text left, GIF right -->
+<table>
+  <tr>
+    <td width="60%" valign="top">
 
-- 🎓 B.Tech CSE @ VIT Bhopal  
-- ⚙️ I like taking ideas from a simple draft to a deployed web product  
-- 🤖 Recently focused on bringing LLMs into real apps for content, events, and health  
-- 🌐 Comfortable across the stack: React or Next.js on the front, Node plus APIs and databases on the back  
-- 📫 Reach me at <b>ishanandi2003@gmail.com</b>
+      <h1>Hi 👋, I'm Isha Nandi</h1>
+      <h3>Full Stack Developer building AI-first web experiences</h3>
+
+      <ul>
+        <li>🎓 B.Tech CSE @ VIT Bhopal</li>
+        <li>⚙️ I like taking ideas from a simple draft to a deployed web product</li>
+        <li>🤖 Recently focused on bringing LLMs into real apps for content, events, and health</li>
+        <li>🌐 Comfortable across the stack: React / Next.js · Node / APIs · modern databases</li>
+        <li>📫 Reach me at <b>ishanandi2003@gmail.com</b></li>
+      </ul>
+
+    </td>
+    <td width="40%" align="center" valign="top">
+      <img
+        src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif"
+        alt="Developer at laptop"
+        width="260" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -156,37 +173,57 @@
 
 <h3 align="left">Selected Projects:</h3>
 
-<b>SCRIBE</b> – AI writing companion for turning ideas into structured drafts  
-<i>Next.js · Tailwind · Firebase · Gemini API</i>
+<b>SCRIBE – AI Content Generation Platform</b><br/>
+<i>Next.js · Tailwind CSS · Firebase · Gemini API · ImageKit</i><br/><br/>
+An AI-powered writing workspace that reduces friction between idea and draft.  
+Users write in a custom editor and call AI inline, instead of jumping across tools.
 
-<br/><br/>
+<ul>
+  <li>Built a responsive Next.js + Tailwind editor focused on a clean, distraction-free flow</li>
+  <li>Integrated Gemini API contextually so suggestions depend on the current draft</li>
+  <li>Used Firebase Auth and Firestore for secure login and persistent draft storage</li>
+  <li>Optimized media handling with ImageKit to keep the editor fast even with images</li>
+</ul>
 
-<b>BUZZUP</b> – Event discovery with real time updates and smart suggestions  
-<i>Next.js · Convex · Clerk · Tailwind · Gemini API</i>
+<br/>
 
-<br/><br/>
+<b>BUZZUP – Real-Time Event Discovery Platform</b><br/>
+<i>Next.js · Convex · Clerk Auth · Tailwind CSS · shadcn/ui · Gemini API</i><br/><br/>
+A web app where users can browse, filter, and discover events with live updates and smart recommendations.
 
-<b>MEDIQ</b> – Conversation style consultation interface with AI assistance  
-<i>React · Firebase · OpenAI API · AssemblyAI</i>
+<ul>
+  <li>Used Convex for real-time data so new events and changes appear instantly</li>
+  <li>Implemented secure authentication and sessions using Clerk</li>
+  <li>Added AI-driven recommendations using Gemini to surface relevant events</li>
+  <li>Designed a mobile-first interface with Tailwind and shadcn/ui for consistent UX</li>
+</ul>
+
+<br/>
+
+<b>MEDIQ – AI-Assisted Consultation Interface</b><br/>
+<i>React.js · Firebase · OpenAI API · AssemblyAI</i><br/><br/>
+A conversational interface that lets users describe symptoms in natural language or speech.
+
+<ul>
+  <li>Built a guided React flow to collect symptom details step by step</li>
+  <li>Integrated GPT-based responses to organize user input into structured guidance</li>
+  <li>Stored consultation history in Firestore for future reference</li>
+  <li>Added speech-to-text via AssemblyAI to reduce typing effort and make input more natural</li>
+</ul>
 
 ---
 
 <h3 align="left">Certifications & Highlights:</h3>
 
-- IBM Cybersecurity Analyst  
-- Introduction to Front end Development – Coursera  
-- Cloud Computing – NPTEL  
-- 100+ DSA problems solved  
-- Social Media Lead at Health o Tech Club  
-- Powerlifting zonals qualifier  
+<ul>
+  <li>IBM Cybersecurity Analyst (IBM)</li>
+  <li>Introduction to Front-end Development (Coursera)</li>
+  <li>Cloud Computing (NPTEL)</li>
+  <li>100+ DSA problems solved on coding platforms</li>
+  <li>Social Media Lead at Health-o-Tech Club</li>
+  <li>Powerlifting zonals qualifier</li>
+</ul>
 
 ---
-
-<!-- Decorative GIF before stats -->
-<p align="center">
-  <img src="https://media.giphy.com/media/dZX3AduGrY3uJ7qCsx/giphy.gif"
-       alt="Colorful code animation"
-       width="380" />
-</p>
 
 
