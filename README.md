@@ -1,11 +1,26 @@
-<!-- Banner -->
+<!-- Top Banner (static image, not GIF) -->
 <p align="center">
-  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif"
-       alt="Code banner"
-       width="100%" />
+  <svg width="100%" height="220" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" style="stop-color:#0f172a;stop-opacity:1" />
+        <stop offset="50%" style="stop-color:#1e293b;stop-opacity:1" />
+        <stop offset="100%" style="stop-color:#020617;stop-opacity:1" />
+      </linearGradient>
+    </defs>
+    <rect width="100%" height="220" fill="url(#grad)" />
+    <text x="50%" y="45%" dominant-baseline="middle" text-anchor="middle"
+          fill="#e5e7eb" font-size="34" font-family="Segoe UI, system-ui, -apple-system, BlinkMacSystemFont, sans-serif">
+      Isha Nandi
+    </text>
+    <text x="50%" y="62%" dominant-baseline="middle" text-anchor="middle"
+          fill="#9ca3af" font-size="18" font-family="Segoe UI, system-ui, -apple-system, BlinkMacSystemFont, sans-serif">
+      Full Stack Developer · AI-first Web Experiences
+    </text>
+  </svg>
 </p>
 
-<!-- Hero: Text left, GIF right -->
+<!-- Intro: Text on one side, GIF on the other -->
 <table>
   <tr>
     <td width="60%" valign="top">
@@ -14,10 +29,10 @@
       <h3>Full Stack Developer building AI-first web experiences</h3>
 
       <ul>
-        <li>🎓 B.Tech CSE @ VIT Bhopal</li>
-        <li>⚙️ I like taking ideas from a simple draft to a deployed web product</li>
-        <li>🤖 Recently focused on bringing LLMs into real apps for content, events, and health</li>
-        <li>🌐 Comfortable across the stack: React / Next.js · Node / APIs · modern databases</li>
+        <li>🎓 B.Tech in Computer Science & Engineering @ VIT Bhopal</li>
+        <li>⚙️ I like taking ideas from a rough concept to a deployed web product</li>
+        <li>🤖 Recently focused on integrating LLMs into apps for content, events, and health</li>
+        <li>🌐 Comfortable across the stack: React / Next.js · Node / REST APIs · modern databases</li>
         <li>📫 Reach me at <b>ishanandi2003@gmail.com</b></li>
       </ul>
 
@@ -176,7 +191,7 @@
 <b>SCRIBE – AI Content Generation Platform</b><br/>
 <i>Next.js · Tailwind CSS · Firebase · Gemini API · ImageKit</i><br/><br/>
 An AI-powered writing workspace that reduces friction between idea and draft.  
-Users write in a custom editor and call AI inline, instead of jumping across tools.
+Creators write in a custom editor and call AI inline, instead of jumping across tools.
 
 <ul>
   <li>Built a responsive Next.js + Tailwind editor focused on a clean, distraction-free flow</li>
@@ -189,7 +204,7 @@ Users write in a custom editor and call AI inline, instead of jumping across too
 
 <b>BUZZUP – Real-Time Event Discovery Platform</b><br/>
 <i>Next.js · Convex · Clerk Auth · Tailwind CSS · shadcn/ui · Gemini API</i><br/><br/>
-A web app where users can browse, filter, and discover events with live updates and smart recommendations.
+A web app where users browse, filter, and discover events with live updates and smart recommendations.
 
 <ul>
   <li>Used Convex for real-time data so new events and changes appear instantly</li>
@@ -216,14 +231,13 @@ A conversational interface that lets users describe symptoms in natural language
 <h3 align="left">Certifications & Highlights:</h3>
 
 <ul>
-  <li>IBM Cybersecurity Analyst (IBM)</li>
-  <li>Introduction to Front-end Development (Coursera)</li>
-  <li>Cloud Computing (NPTEL)</li>
+  <li>IBM Cybersecurity Analyst</li>
+  <li>Introduction to Front-end Development – Coursera</li>
+  <li>Cloud Computing – NPTEL</li>
   <li>100+ DSA problems solved on coding platforms</li>
   <li>Social Media Lead at Health-o-Tech Club</li>
   <li>Powerlifting zonals qualifier</li>
 </ul>
 
 ---
-
 
