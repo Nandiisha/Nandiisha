@@ -1,46 +1,49 @@
-<!-- Top Banner (static image, not GIF) -->
+<!-- Top Banner (static SVG image) -->
 <p align="center">
-  <svg width="100%" height="220" xmlns="http://www.w3.org/2000/svg">
+  <svg width="100%" height="200" xmlns="http://www.w3.org/2000/svg">
     <defs>
       <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" style="stop-color:#0f172a;stop-opacity:1" />
-        <stop offset="50%" style="stop-color:#1e293b;stop-opacity:1" />
+        <stop offset="0%" style="stop-color:#4c1d95;stop-opacity:1" />
+        <stop offset="50%" style="stop-color:#1d4ed8;stop-opacity:1" />
         <stop offset="100%" style="stop-color:#020617;stop-opacity:1" />
       </linearGradient>
     </defs>
-    <rect width="100%" height="220" fill="url(#grad)" />
+    <rect width="100%" height="200" fill="url(#grad)" />
     <text x="50%" y="45%" dominant-baseline="middle" text-anchor="middle"
-          fill="#e5e7eb" font-size="34" font-family="Segoe UI, system-ui, -apple-system, BlinkMacSystemFont, sans-serif">
-      Isha Nandi
+          fill="#f9fafb" font-size="30" font-family="Segoe UI, system-ui, -apple-system, BlinkMacSystemFont, sans-serif">
+      ISHA NANDI
     </text>
-    <text x="50%" y="62%" dominant-baseline="middle" text-anchor="middle"
-          fill="#9ca3af" font-size="18" font-family="Segoe UI, system-ui, -apple-system, BlinkMacSystemFont, sans-serif">
-      Full Stack Developer · AI-first Web Experiences
+    <text x="50%" y="63%" dominant-baseline="middle" text-anchor="middle"
+          fill="#e5e7eb" font-size="16" font-family="Segoe UI, system-ui, -apple-system, BlinkMacSystemFont, sans-serif">
+      Full Stack Developer · AI-first Web Applications
     </text>
   </svg>
 </p>
 
-<!-- Intro: Text on one side, GIF on the other -->
+<!-- Intro heading in the style of the reference template -->
+<h1 align="center">Hi 👋, I'm Isha Nandi</h1>
+<h3 align="center">A developer who loves building smart, clean web experiences from India</h3>
+
+<hr/>
+
+<!-- Intro section: text on left, image/gif on right -->
 <table>
   <tr>
-    <td width="60%" valign="top">
-
-      <h1>Hi 👋, I'm Isha Nandi</h1>
-      <h3>Full Stack Developer building AI-first web experiences</h3>
+    <td width="55%" valign="top">
 
       <ul>
-        <li>🎓 B.Tech in Computer Science & Engineering @ VIT Bhopal</li>
-        <li>⚙️ I like taking ideas from a rough concept to a deployed web product</li>
-        <li>🤖 Recently focused on integrating LLMs into apps for content, events, and health</li>
-        <li>🌐 Comfortable across the stack: React / Next.js · Node / REST APIs · modern databases</li>
-        <li>📫 Reach me at <b>ishanandi2003@gmail.com</b></li>
+        <li>🌱 I’m currently learning <b>AI-integrated full stack development</b> with Next.js, React, and modern backends.</li>
+        <li>⚙️ I enjoy taking projects from a simple idea to a <b>live, usable product</b> on the web.</li>
+        <li>🤖 I’ve worked with <b>Gemini & OpenAI</b> to power content platforms, event discovery, and consultation flows.</li>
+        <li>🧩 I like designing flows that feel intuitive: clear UI, predictable behavior, and fast responses.</li>
+        <li>📬 How to reach me: <b>ishanandi2003@gmail.com</b></li>
       </ul>
 
     </td>
-    <td width="40%" align="center" valign="top">
+    <td width="45%" align="center" valign="top">
       <img
         src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif"
-        alt="Developer at laptop"
+        alt="Developer illustration"
         width="260" />
     </td>
   </tr>
@@ -241,3 +244,25 @@ A conversational interface that lets users describe symptoms in natural language
 
 ---
 
+<h3 align="left">GitHub Stats:</h3>
+
+<p align="left">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandiisha&layout=compact&show_icons=true&hide_border=true"
+    alt="Top languages for nandiisha"
+  />
+</p>
+
+<p align="left">
+  <img
+    src="https://github-readme-stats.vercel.app/api/?username=nandiisha&show_icons=true&hide_border=true"
+    alt="GitHub stats for nandiisha"
+  />
+</p>
+
+<p align="left">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=nandiisha&hide_border=true"
+    alt="GitHub streak for nandiisha"
+  />
+</p>
