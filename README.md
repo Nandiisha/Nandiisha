@@ -93,8 +93,3 @@
   </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nandiisha&show_icons=true&locale=en&layout=compact" alt="nandiisha" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nandiisha&show_icons=true&locale=en" alt="nandiisha" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nandiisha&" alt="nandiisha" /></p>
